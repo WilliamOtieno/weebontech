@@ -1,1 +1,1 @@
-web: gunicorn TechHub.wsgi -log-file - 
+web: gunicorn TechHub.wsgi 
